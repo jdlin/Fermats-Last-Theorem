@@ -3,8 +3,11 @@ Fermat's Last Theorem: x^n + y^n = z^n
 The input of n is 2, and the range of variable z is from 150 to 200. The results are shown below: 
 ----------------
 Please input n, and the range of z.
+
 2 150 200
+
 The solutions of x^2 + y^2 = z^2 between 150 and 200 are
+
 001: 42^2 + 144^2 = 150^2
 002: 90^2 + 120^2 = 150^2
 003: 72^2 + 135^2 = 153^2
